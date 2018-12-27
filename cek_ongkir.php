@@ -16,7 +16,7 @@
 	  CURLOPT_POSTFIELDS => "originType=city&origin=501&destinationType=city&destination={$id_kabupaten}&weight=1000&courier=jne",
 	  CURLOPT_HTTPHEADER => array(
 	    "content-type: application/x-www-form-urlencoded",
-	    "key: 75f538ed88e26297a2fabed240ed8bf0"
+	    "key: Your-API-Key"
 	  ),
 	));
 
